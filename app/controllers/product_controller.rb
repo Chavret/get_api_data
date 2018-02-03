@@ -5,4 +5,11 @@ class ProductController < ApplicationController
       format.html { render "product/show" }
     end
   end
+
+  def index
+    @products = Product.all
+    respond_to do |format|
+      format.html { render "product/index" }
+    end
+  end
 end

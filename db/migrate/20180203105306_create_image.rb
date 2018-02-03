@@ -7,7 +7,6 @@ class CreateImage < ActiveRecord::Migration[5.0]
       t.integer :naturalWidth
       t.integer :height
       t.integer :product_id
-      t.integer :position
       t.string :path
     end
   end

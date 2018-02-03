@@ -15,6 +15,4 @@ class Image < ApplicationRecord
   ##############################################################################
 
   # VALIDATION
-
-  validates :position, uniqueness: { scope: :product_id, message: "position already used for this product" }
 end
