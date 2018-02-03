@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  font-size: 20px;
+}
+.margin-10 {
+  margin-top: 10px;
+}
+.margin-20 {
+  margin-top: 20px;
+}
+.margin-bottom-15 {
+  margin-bottom: 15px;
+}
+.margin-left-5 {
+  margin-left: 5px;
+}
+.stats-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 15px;
+}
