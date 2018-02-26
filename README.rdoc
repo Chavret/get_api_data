@@ -2,6 +2,7 @@
 
 This is an example app calling an API (Diffbot) who scrap several amazone pages, and display their content about Azimov books.
 You can acces the heroku app at 'https://guarded-dusk-78529.herokuapp.com/'
+I made it in 4 hours and this is the second time i make an API call without an existing structure.
 Enjoy :)
 
 This README would normally document whatever steps are necessary to get the
